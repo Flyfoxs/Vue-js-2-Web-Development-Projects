@@ -1,0 +1,69 @@
+# Output
+build
+dist
+docs/_book
+src/version.js
+junit.xml
+coverage/
+.docz/
+__pycache__
+/mlruns
+
+# YALC (for Erik)
+.yalc
+yalc.lock
+
+# Logging, System files, misc.
+.idea/
+.npm
+npm-debug.log
+package-lock.json
+yarn-error.log
+.DS_Store
+.env
+local-env.sh
+
+# Common Example Data Directories
+sampledata/
+bin/deps/
+docker/dcm4che/dcm4che-arc
+
+# Cypress test results
+videos/
+
+# Locize settings
+/local/
+.locize
+input
+output
+*.gz
+*.out
+*.log
+.gradle/
+catboost_info/
+images/
+notebook/
+.vscode
+.history
+*.egg-info
+7
+**/del.py
+mlruns
+**/mlflow-artifact-store-*
+/airflow/
+/gen_sql/
+/solution_def_example/
+/data/amax/
+*.jsonl
+/data/
+*.csv
+*.xlsx
+metastore_db
+spark-warehouse
+*.sh
+*.csv
+/Models/test/pdf_diff/
+*.txt
+*.parquet
+*.log
+node_modules
